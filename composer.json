@@ -1,11 +1,16 @@
 {
-    "name": "esedArk/table-of-contents-laravel",
+    "name": "nikolay-oskin/contents",
     "description": "Table of contents generator Laravel package for posts, news, articles or any other text",
     "keywords": ["laravel", "laravel-contents", "table-of-contents", "contents"],
     "authors": [
         {
             "name": "Nikolay Oskin",
             "email": "nickolayoskin@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "David Rodriguez",
+            "email": "esedark@gmail.com",
             "role": "Developer"
         }
     ],
